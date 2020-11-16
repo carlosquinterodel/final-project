@@ -1,0 +1,13 @@
+12
+1,blusa adidas roja,30000
+2,blusa adidas blanca,30000
+3,blusa adidas negra,30000
+4,tenis rebook azules,150000
+5,tenis balenciaga negros,270000
+6,tenis nike run blancos,18000
+7,tenis newbalance verdes,160000
+8,sudadera adidas negra,250000
+9,pantaloneta nike,70000
+10,camisa adidas negra,50000
+11,camisa adidas azul,50000
+12,tenis puma,190000

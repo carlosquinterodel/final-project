@@ -1,0 +1,13 @@
+4
+32145655,manuel,1,2
+1,camisa nike,32000
+3,tenis rebook,180000
+83673873,daniel,2,1
+1,camisa nike,32000
+9763773,carlos,1,3
+3,tenis balenciaga,250000
+12,top adidad,38000
+7,chaqueta adidas,65000
+31940431,natalia,2,2
+10,top nike,40000
+6,blusa adidas,30000
